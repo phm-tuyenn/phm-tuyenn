@@ -3,7 +3,7 @@ I'm still alive and I only know about these technology:
 - HTML, CSS, JS, React for web development and cross platform desktop app (Electron).
 - C/C++ for competitve programming and robotics (Vex IQ, Vex V5).
 - Python for competitve programming, data science and AI.
-- Java for robotics (First Tech Challenge).
+- Java for robotics (FIRST Tech Challenge).
 
 - Visitor count:![Visitor count](https://profile-counter.glitch.me/phm-tuyenn/count.svg)
 
