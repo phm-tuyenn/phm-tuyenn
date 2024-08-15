@@ -13,4 +13,4 @@ I'm still alive and I only know about these technology:
 Contact me:
 - [Email](mailto://phamthanhtuyen2k8@gmail.com)
 - [Facebook](https://www.facebook.com/phm.tuyenn)
-- [Discord: pham.tuyen]()
+- Discord: pham.tuyen
