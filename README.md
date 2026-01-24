@@ -5,8 +5,6 @@ I'm still alive and I only know about these technology:
 - Python for competitve programming, data science, AI and robotics.
 - Java for robotics (FIRST Tech Challenge).
 
-- Visitor count:![Visitor count](https://profile-counter.glitch.me/phm-tuyenn/count.svg)
-
 ![Phạm Tuyên GitHub stats](https://github-readme-stats.vercel.app/api?username=phm-tuyenn&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phm-tuyenn&show_icons=true&langs_count=10)
 
