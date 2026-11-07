@@ -1,4 +1,4 @@
-## Hi there 👋. I'm going to be a mechatronic student!
+## Hi there 👋. I'm ~~going to be a mechatronic~~ a Control Engineering and Automation student!
 I'm still alive and I only know about these technology:
 - HTML, CSS, JS, React for web development and cross platform desktop app (Electron).
 - C/C++ for competitve programming and robotics (Vex IQ, Vex V5).
